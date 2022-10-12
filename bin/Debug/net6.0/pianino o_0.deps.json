@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pianino o_0/1.0.0": {
+        "runtime": {
+          "pianino o_0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pianino o_0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\annak\source\repos\pianino o_0\bin\Debug\net6.0\pianino o_0.exe
+C:\Users\annak\source\repos\pianino o_0\bin\Debug\net6.0\pianino o_0.deps.json
+C:\Users\annak\source\repos\pianino o_0\bin\Debug\net6.0\pianino o_0.runtimeconfig.json
+C:\Users\annak\source\repos\pianino o_0\bin\Debug\net6.0\pianino o_0.dll
+C:\Users\annak\source\repos\pianino o_0\bin\Debug\net6.0\pianino o_0.pdb
+C:\Users\annak\source\repos\pianino o_0\obj\Debug\net6.0\pianino o_0.csproj.AssemblyReference.cache
+C:\Users\annak\source\repos\pianino o_0\obj\Debug\net6.0\pianino o_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annak\source\repos\pianino o_0\obj\Debug\net6.0\pianino o_0.AssemblyInfoInputs.cache
+C:\Users\annak\source\repos\pianino o_0\obj\Debug\net6.0\pianino o_0.AssemblyInfo.cs
+C:\Users\annak\source\repos\pianino o_0\obj\Debug\net6.0\pianino o_0.csproj.CoreCompileInputs.cache
+C:\Users\annak\source\repos\pianino o_0\obj\Debug\net6.0\pianino o_0.dll
+C:\Users\annak\source\repos\pianino o_0\obj\Debug\net6.0\refint\pianino o_0.dll
+C:\Users\annak\source\repos\pianino o_0\obj\Debug\net6.0\pianino o_0.pdb
+C:\Users\annak\source\repos\pianino o_0\obj\Debug\net6.0\pianino o_0.genruntimeconfig.cache
+C:\Users\annak\source\repos\pianino o_0\obj\Debug\net6.0\ref\pianino o_0.dll
